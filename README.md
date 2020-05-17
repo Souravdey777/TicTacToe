@@ -16,7 +16,7 @@ This is an Android Application the moves here are played by the device in single
 ### Demo
 
 **[Click here to download the apk](https://drive.google.com/file/d/0BxyUEpBbbGBjSU9udnFQNTd2SUU/view?usp=sharing)**
-<a href="https://drive.google.com/file/d/0BxyUEpBbbGBjSU9udnFQNTd2SUU/view?usp=sharing" target="_blank">![Screenshot](ScreenShot.jpg =250x "Tic Tac Toe")</a>
+<a href="https://drive.google.com/file/d/0BxyUEpBbbGBjSU9udnFQNTd2SUU/view?usp=sharing" target="_blank">![Screenshot](ScreenShot.jpg "Tic Tac Toe")</a>
 
 
 ### Features
