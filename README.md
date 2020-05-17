@@ -11,7 +11,7 @@ Tic-tac-toe , noughts and crosses (British English), or Xs and Os is a classic p
 
 This is an Android Application the moves here are played by the device in single player mode are defensive and Random. It is not on MINMAX Algorithm but is capable to make you loose. :smile: Try it.
 
-`Developed on 2016`
+`Developed in 2016`
 
 ### Demo
 
