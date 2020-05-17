@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/bg"
+        tools:ignore="ContentDescription" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+        <Button
+            style="@style/ButtomCustom"
+            android:layout_width="75dp"
+            android:layout_height="26dp"
+            android:id="@+id/vib"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="90dp"
+            android:text="@string/vibration_on"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            android:layout_marginBottom="20dp"
+            android:layout_above="@+id/b1"
+            tools:ignore="SmallSp" />
+
+        <Button
+            style="@style/ButtomCustom"
+            android:layout_width="75dp"
+            android:layout_height="26dp"
+            android:id="@+id/m"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="90dp"
+            android:text="@string/sound_on"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            android:layout_marginBottom="20dp"
+            android:layout_above="@+id/b1"
+            tools:ignore="SmallSp" />
+        <Button
+        android:id="@+id/b1"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:text="@string/one_player"
+        android:textColor="@android:color/white"
+        android:textSize="10sp"
+        style="@style/ButtomCustom"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+            tools:ignore="HardcodedText,SmallSp" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:text="@string/two_player"
+        android:textColor="@android:color/white"
+        android:textSize="10sp"
+        style="@style/ButtomCustom"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/b1"
+        android:layout_centerHorizontal="true"
+        tools:ignore="SmallSp" />
+
+        <Button android:id="@+id/b3"
+
+            android:layout_width="150dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="@string/exit"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            style="@style/ButtomCustom"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/b4"
+            android:layout_centerHorizontal="true"
+            tools:ignore="SmallSp" />
+
+        <Button android:id="@+id/b4"
+            android:layout_width="150dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="@string/about"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            style="@style/ButtomCustom"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/b2"
+            android:layout_centerHorizontal="true"
+            tools:ignore="SmallSp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

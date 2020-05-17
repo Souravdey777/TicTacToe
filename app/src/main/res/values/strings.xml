@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="about">About</string>
+    <string name="one_player">One Player</string>
+    <string name="sound_on">Sound: ON</string>
+    <string name="two_player">Two Player</string>
+    <string name="vibration_on">Vibration: ON</string>
+    <string name="exit">Exit</string>
+    <string name="click_a_button_to_start">Click a button to start</string>
+    <string name="player_o">Player \'O\'</string>
+    <string name="player_x">Player \'X\'</string>
+    <string name="your_score">Your Score</string>
+</resources>
