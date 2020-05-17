@@ -3,7 +3,7 @@
 
 [![HitCount](http://hits.dwyl.com/Souravdey777/Souravdey777/TicTacToe.svg)](http://hits.dwyl.com/Souravdey777/Souravdey777/TicTacToe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
-[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.png?id=gh&v=2.0&style=flat)](https://badge.fury.io/gh/Souravdey777%2FNews-Bucket)
+[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.png?id=gh&v=2.0&style=flat)](https://badge.fury.io/gh/Souravdey777/TicTacToe)
 
 ### Description
 
